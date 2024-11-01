@@ -10,7 +10,6 @@ import lombok.Setter;
 @Data
 @Getter
 @Setter
-
 public class Disciplina {
     @Id
     @Column(name = "id_disciplina")
